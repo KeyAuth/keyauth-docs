@@ -1,2 +1,3 @@
-# keyauth-docs
-KeyAuth documentation - docs.keyauth.cc
+# KeyAuth Documentation
+
+https://docs.keyauth.cc

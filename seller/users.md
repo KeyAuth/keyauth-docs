@@ -531,7 +531,7 @@ Found at
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" name="type" type="string" required="true" %}
-extend
+subtract
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" name="user" type="string" required="true" %}

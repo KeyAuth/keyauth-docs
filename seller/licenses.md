@@ -107,13 +107,13 @@ verify
 License key
 {% endswagger-parameter %}
 
-{% swagger-response status="200" description="Success" %}
+{% swagger-response status="200" description="Key Deletion Successful " %}
 ```javascript
 {"success":true,"message":"Key Successfully Verified"}
 ```
 {% endswagger-response %}
 
-{% swagger-response status="403" description="Missing seller permissions" %}
+{% swagger-response status="403" description="Missing seller permissions.=" %}
 ```javascript
 {"success":false,"message":"Not authorized to use SellerAPI, please upgrade."}
 ```

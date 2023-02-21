@@ -142,6 +142,12 @@ Found at
 {% swagger-parameter in="query" name="tyoe" required="true" %}
 fetchallfiles
 {% endswagger-parameter %}
+
+{% swagger-response status="200: OK" description="" %}
+```json
+{"success":true,"message":"Successfully retrieved files","files":[{"id":"891188","url":"https:\/\/a.pomf.cat\/tnpraf.tar.gz"},{"id":"650285","url":"https:\/\/cdn.discordapp.com\/attachments\/824400483619176461\/1044401534819123220\/yubikey-manager-qt-1.2.4-win64.exe"},{"id":"953440","url":"https:\/\/cdn.discordapp.com\/attachments\/961693695642583060\/1058062921881628724\/37065.pdf"},{"id":"645238","url":"https:\/\/cdn.discordapp.com\/attachments\/824409191003062322\/1065762419323965550\/68c5a6f0.gif"}]}
+```
+{% endswagger-response %}
 {% endswagger %}
 
 **Example URL:** [https://keyauth.win/api/seller/?sellerkey=sellerkeyhere\&type=fetchallfiles](https://keyauth.win/api/seller/?sellerkey=sellerkeyhere\&type=fetchallfiles)

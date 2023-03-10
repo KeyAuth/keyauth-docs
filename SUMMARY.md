@@ -1,6 +1,6 @@
 # Table of contents
 
-* [KeyAuth API Documentation](README.md)
+* [KeyAuth Documentation](README.md)
 * [Security practices](security-practices.md)
 
 ## Website

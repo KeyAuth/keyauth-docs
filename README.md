@@ -2,33 +2,11 @@
 description: KeyAuth is an open source authentication system.
 ---
 
-# KeyAuth API Documentation
+# KeyAuth Documentation
 
-The following SDKs already provide example code to interact with KeyAuth API:
-
-[C# SDK](https://github.com/KeyAuth/KeyAuth-CSHARP-Example)
-
-[C++ SDK](https://github.com/KeyAuth/KeyAuth-CPP-Example)
-
-[Python SDK](https://github.com/KeyAuth/KeyAuth-Python-Example)
-
-[Java SDK](https://github.com/SprayDown/KeyAuth-JAVA-api)
-
-[JavaScript SDK](https://github.com/mazkdevf/KeyAuth-JS-Example)
-
-[VB.NET SDK](https://github.com/KeyAuth/KeyAuth-VB-Example)
-
-[PHP SDK](https://github.com/KeyAuth/KeyAuth-PHP-Example)
-
-[Rust SDK](https://github.com/KeyAuth/KeyAuth-Rust-Example)
-
-[Go SDK](https://github.com/mazkdevf/KeyAuth-Go-Example)
-
-[Lua SDK](https://github.com/mazkdevf/KeyAuth-Lua-Examples)
-
-[Ruby SDK](https://github.com/mazkdevf/KeyAuth-Ruby-Example)
-
-[Perl SDK](https://github.com/mazkdevf/KeyAuth-Perl-Example)
+KeyAuth documentation has moved to [https://KeyAuth.readme.io ](https://keyauth.readme.io). We have made it easier for you to make requests from the site and not need to implement it into your project to test it out. We hope you enjoy!\
+\
+\-KeyAuth
 
 
 

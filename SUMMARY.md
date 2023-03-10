@@ -3,25 +3,6 @@
 * [KeyAuth API Documentation](README.md)
 * [Security practices](security-practices.md)
 
-## API
-
-* [Initialization](api/initalization.md)
-* [Register](api/register.md)
-* [Upgrade](api/upgrade.md)
-* [Login](api/login.md)
-* [License](api/license.md)
-* [Fetch online users](api/fetch-online-users.md)
-* [User Variable](api/user-variable.md)
-* [Variable](api/variable.md)
-* [Check blacklist](api/check-blacklist.md)
-* [Chat channels](api/chat-channels.md)
-* [Log](api/log.md)
-* [Webhook](api/webhook.md)
-* [Ban](api/ban.md)
-* [Download](api/download.md)
-* [Check session](api/check-session.md)
-* [Change Username](api/change-username.md)
-
 ## Website
 
 * [Dashboard](website/dashboard/README.md)
@@ -47,18 +28,3 @@
   * [Settings](website/seller/settings.md)
   * [Web Loader](website/seller/web-loader.md)
   * [Seller Logs](website/seller/seller-logs.md)
-
-## Seller
-
-* [Licenses](seller/licenses.md)
-* [Users](seller/users.md)
-* [Subscriptions](seller/subscriptions.md)
-* [Chats](seller/chats.md)
-* [Sessions](seller/sessions.md)
-* [Webhooks](seller/webhooks.md)
-* [Files](seller/files.md)
-* [Variables](seller/variables.md)
-* [Blacklists](seller/blacklists.md)
-* [Settings](seller/settings.md)
-* [Accounts](seller/accounts.md)
-* [Web Loader Buttons](seller/web-loader-buttons.md)

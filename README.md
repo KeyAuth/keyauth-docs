@@ -12,5 +12,13 @@ For now, this site will be used to explain the features on the dashboard of [htt
 
 
 
+{% hint style="info" %}
+UPDATE - 03/23/2023\
+\
+Slowly transferring everything from this site to [https://keyauth.readme.io](https://keyauth.readme.io) . \
+\
+It is recommended to start getting use to that site since this site will soon be discontinued (time is currently unknown)
+{% endhint %}
+
 Please join [https://discord.gg/keyauth](https://discord.gg/keyauth) should you have any inquiries.
 

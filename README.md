@@ -20,5 +20,5 @@ Slowly transferring everything from this site to [https://keyauth.readme.io](htt
 It is recommended to start getting use to that site since this site will soon be discontinued (time is currently unknown)
 {% endhint %}
 
-Please join [https://discord.gg/keyauth](https://discord.gg/keyauth) should you have any inquiries.
+Contact us here [https://keyauth.cc/app/?page=support](https://keyauth.cc/app/?page=support)
 

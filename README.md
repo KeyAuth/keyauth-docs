@@ -1,3 +1,4 @@
+# Please star 🌟
 ---
 description: KeyAuth is an open source authentication system.
 ---
